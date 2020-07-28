@@ -1,0 +1,21 @@
+package Tree;
+
+class Node {
+	int val;
+	Node left;
+	Node right;
+	
+	Node(int v, Node l, Node r){
+		val=v;
+		left=l;
+		right=r;
+	}
+}
+
+public class Tree1 {
+	Node root;
+	public static void main(String[] args) {
+		
+		
+	}
+}
